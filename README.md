@@ -1,3 +1,5 @@
-The aim of this project is to build a website with links to web pages displaying different recipes.
+Recipes
 
-This will demonstrate my ability to use a variety of html tags.
+A website that displays different recipes!
+
+This will demonstrate the ability to use a variety of html tags.
