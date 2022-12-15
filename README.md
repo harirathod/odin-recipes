@@ -1,5 +1,5 @@
-Recipes
+# Recipes
 
-A website that displays different recipes!
+Check out my website at https://harirathod.github.io/odin-recipes/!
 
-This will demonstrate the ability to use a variety of html tags.
+This simple website (the first website I've ever made) provides recipes for a couple of dishes. The website was created using HTML and CSS, which was learned by working through [The Odin Project](https://www.theodinproject.com/dashboard).
