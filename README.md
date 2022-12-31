@@ -2,7 +2,7 @@
 
 ## Overview
 
-Check out my website at **https://harirathod.github.io/recipes-website/** !
+Check out my website at **https://harirathod.github.io/recipes-website/**!
 
 Made using HTML and CSS, this website (the first website I've ever made) provides recipes for a couple of dishes. 
 
